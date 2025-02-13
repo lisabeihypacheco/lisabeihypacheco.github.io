@@ -28,7 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/CV_LisaPacheco.pdf";
+            window.location.href = "/assets/pdf/CV_LisaBeihyPacheco.pdf";
           },
         },{id: "nav-teaching",
           title: "teaching",
