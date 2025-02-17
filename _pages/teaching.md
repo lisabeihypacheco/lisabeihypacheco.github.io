@@ -11,6 +11,7 @@ I have over 6 years of experience in teaching Graduate, Undergraduate and Excecu
 I'm currently teaching PP404 Economics for Public Policy (MPP, LSE).
 
 Courses I've taught:
+
 - Global Market Economics (EMPA and EMPP, LSE)
 - Empirical Methods for Public Policy (EMPA and EMPP, LSE)
 - The Economics of Industry (Economics MSc, LSE)
