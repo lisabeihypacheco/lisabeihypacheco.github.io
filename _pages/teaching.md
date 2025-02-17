@@ -1,12 +1,20 @@
 ---
-layout: page
+layout: about
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: x
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I have over 6 years of experience in teaching Graduate, Undergraduate and Excecutive Economics courses, at PUC-Rio and at the LSE.
 
-Organize your courses by years, topics, or universities, however you like!
+Courses I've taught:
+
+- Economics for Public Policy (MPP, LSE)
+- Global Market Economics (EMPA and EMPP, LSE)
+- Empirical Methods for Public Policy (EMPA and EMPP, LSE)
+- The Economics of Industry (Economics MSc, LSE)
+- Macroeconomics I (Undergraduate Economics, LSE)
+- Microeconomics I (Undergraduate Economics, LSE)
+- Microeconomics I (Economic MSc and PhD, PUC-Rio)
