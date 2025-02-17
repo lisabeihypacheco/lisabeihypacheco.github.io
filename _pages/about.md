@@ -7,9 +7,7 @@ profile:
   align: left
   image: IMG_2230.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Sir Arthur Lewis Building, 32 Lincoln’s Inn Fields</p>
-    <p>London WC2A 3PH, UK</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
