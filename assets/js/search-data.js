@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-eee",
-          title: "eee",
-          description: "Economics of Energy and Environment Programme",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/eee/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/assets/pdf/CV_LisaBeihyPacheco.pdf";
+          },
+        },{id: "nav-eee",
+          title: "eee",
+          description: "Economics of Energy and Environment Programme",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/eee/";
           },
         },{id: "nav-teaching",
           title: "teaching",
