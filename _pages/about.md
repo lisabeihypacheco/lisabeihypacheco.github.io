@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: London School of Economics
 
 profile:
   align: left
@@ -26,8 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com).
+Hello!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am an Economics PhD Candidate at the London School of Economics. I work on energy and environment topics in developing countries, using tools from industrial organisation, labour and and international trade.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I will be going on the Economics Job Market in 2025/26.
+
+This is my favourite [subreddit](https://www.reddit.com/r/DarK/).
