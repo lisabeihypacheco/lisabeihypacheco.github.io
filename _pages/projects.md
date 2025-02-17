@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-I have been an organiser of the EEE Progamme in the LSE Economics Department and STICERD since the 2022/2023 AY. As part of the EEE Programme I help organise the weekly EEE Hour seminar for PhD students and faculty in the Department, as well as co-chair the EEE Programme's two yearly conferences (LSE Environment Week and LSE Environment Camp).
+I have been an organiser of the EEE Progamme in the LSE Economics Department and STICERD since the 2022/23 AY. As part of the EEE Programme I help organise the weekly EEE Hour seminar for PhD students and faculty in the Department, as well as co-chair the EEE Programme's two yearly conferences (LSE Environment Week and LSE Environment Camp).
 
 To find out more about our conferences and see open calls for papers, check the [LSE Environment Week Website](https://www.lse-environment-week.com/).
 
