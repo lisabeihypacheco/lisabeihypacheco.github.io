@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title:
 nav: true
 nav_order: 2
 ---
@@ -13,7 +13,16 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 <div class="publications">
+      <h2>job market paper</h2>
+      {% bibliography -f papers -q @*[abbr=jmp] %}
+</div>
 
-{% bibliography %}
+<div class="publications">
+     <h2>working papers</h2>
+     {% bibliography -f papers -q @*[type=wp] %}
+</div>
 
+<div class="publications">
+     <h2>work in progress</h2>
+     {% bibliography -f papers -q @*[type=wip] %}
 </div>
