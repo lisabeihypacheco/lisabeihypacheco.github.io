@@ -14,7 +14,7 @@ nav_order: 2
 
 <div class="publications">
       <h2>job market paper</h2>
-      {% bibliography -f papers -q @*[abbr=jmp] %}
+      {% bibliography -f papers -q @*[type=jmp] %}
 </div>
 
 <div class="publications">
