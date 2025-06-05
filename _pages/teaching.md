@@ -8,7 +8,7 @@ nav_order: 6
 
 I have over 6 years of experience in teaching Graduate, Undergraduate and Excecutive Economics courses, at PUC-Rio and at the LSE.
 
-In 2024/25 I was a Teaching Fellow for PP404 Economics for Public Policy (MPP, LSE), for which I won an LSE Class Teacher Award ([Teaching Evaluation Survey](https://lisabeihypacheco.github.io/assets/pdf/PP404_2025.pdf).
+In 2024/25 I was a Teaching Fellow for PP404 Economics for Public Policy (MPP, LSE), for which I won an LSE Class Teacher Award ([Teaching Evaluation Survey](https://lisabeihypacheco.github.io/assets/pdf/PP404_2025.pdf)).
 
 Courses I've taught:
 
