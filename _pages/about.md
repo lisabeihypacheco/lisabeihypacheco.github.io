@@ -25,10 +25,8 @@ latest_posts:
 
 Hello!
 
-I am an Economics PhD Candidate at the London School of Economics. I work on energy and environment topics in developing countries, using tools from industrial organisation, labour and international trade.
+I am an Economics PhD Candidate at the London School of Economics. I work on energy and environment topics in developing countries, using tools from industrial organisation, labour and international trade. My research is mostly focused on Brazil, in particular energy policy, deforestation and firm dynamics.
 
-I will be going on the Economics Job Market in 2025/26.
-
-This is my favourite [subreddit](https://www.reddit.com/r/DarK/).
+I am on the 2025/26 Economics Job Market.
 
 
