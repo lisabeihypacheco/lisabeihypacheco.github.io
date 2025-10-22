@@ -189,7 +189,6 @@ exclude:
   - _news
   - _pages/blog.md
   - _pages/repositories.md
-  - _pages/dropdown.md
   - _pages/profiles.md
 keep_files:
   - CNAME
