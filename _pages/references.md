@@ -10,19 +10,19 @@ nav: false
     **John Van Reenen** <br>
     Department of Economics<br>
     London School of Economics<br>
-    j.vanreenen@lse.ac.uk<br>
+    [j.vanreenen@lse.ac.uk](j.vanreenen@lse.ac.uk) <br>
   </div>
   <div class="col-sm">
     **Robin Burgess**<br>
     Department of Economics<br>
     London School of Economics<br>
-    r.burgess@lse.ac.uk<br>
+    [r.burgess@lse.ac.uk](r.burgess@lse.ac.uk) <br>
   </div>
   <div class="col-sm">
     **Mar Reguant**<br>
     Department of Economics<br>
     Northwestern University<br>
-    mar.reguant@northwestern.edu<br>
+    [mar.reguant@northwestern.edu](mar.reguant@northwestern.edu) <br>
   </div>
 </div>
   
