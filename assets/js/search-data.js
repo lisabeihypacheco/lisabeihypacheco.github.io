@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/eee/";
           },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "dropdown-contact",
               title: "contact",
               description: "",
@@ -44,14 +51,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "nav-teaching",
-          title: "teaching",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "post-a-post-with-image-galleries",
+            },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
