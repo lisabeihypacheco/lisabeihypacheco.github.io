@@ -7,22 +7,22 @@ nav: false
 
 <div class="row justify-content-sm-center">
   <div class="col-sm">
-    **John Van Reenen** <br>
+    <p class="font-weight-bold">John Van Reenen</p> <br>
     Department of Economics<br>
     London School of Economics<br>
-    [j.vanreenen@lse.ac.uk](j.vanreenen@lse.ac.uk) <br>
+    <a href="j.vanreenen@lse.ac.uk" class="card-link">j.vanreenen@lse.ac.uk</a> <br>
   </div>
   <div class="col-sm">
-    **Robin Burgess**<br>
+    <p class="font-weight-bold">Robin Burgess</p> <br>
     Department of Economics<br>
     London School of Economics<br>
-    [r.burgess@lse.ac.uk](r.burgess@lse.ac.uk) <br>
+    <a href="r.burgess@lse.ac.uk" class="card-link">r.burgess@lse.ac.uk</a> <br>
   </div>
   <div class="col-sm">
-    **Mar Reguant**<br>
+    <p class="font-weight-bold">Mar Reguant</p> <br>
     Department of Economics<br>
     Northwestern University<br>
-    [mar.reguant@northwestern.edu](mar.reguant@northwestern.edu) <br>
+    <a href="mar.reguant@northwestern.edu" class="card-link">mar.reguant@northwestern.edu</a> <br>
   </div>
 </div>
   
