@@ -8,7 +8,6 @@ profile:
   image: IMG_2230.jpg
   image_circular: true # crops the image to make it circular
 
-
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -25,9 +24,8 @@ latest_posts:
 
 Hello!
 
-I am an Economics PhD Candidate at the London School of Economics. 
+I am an Economics PhD Candidate at the London School of Economics.
 
 I work on energy and environment topics in developing countries, using tools from industrial organisation, labour and international trade. My research is mostly focused on Brazil, in particular energy policy, deforestation and firm dynamics.
 
 **I am on the 2025/26 Economics Job Market.**
-
