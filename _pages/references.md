@@ -25,4 +25,3 @@ nav: false
     <a href="mar.reguant@northwestern.edu" class="card-link">mar.reguant@northwestern.edu</a>
   </div>
 </div>
-  
