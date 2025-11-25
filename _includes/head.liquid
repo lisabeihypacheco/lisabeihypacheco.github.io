@@ -1,4 +1,5 @@
 <!-- Metadata, OpenGraph and Schema.org -->
+
 {% include metadata.liquid %}
 
 <!-- Bootstrap & MDB -->
@@ -11,6 +12,7 @@
 >
 
 {% if page.pretty_table %}
+
   <!-- Bootstrap Table -->
   <link
     defer
@@ -41,6 +43,7 @@
 >
 
 {% if page.toc and page.toc.sidebar %}
+
   <!-- Sidebar Table of Contents -->
   <link defer href="{{ '/assets/css/bootstrap-toc.min.css' | relative_url | bust_file_cache }}" rel="stylesheet">
 {% endif %}
@@ -48,6 +51,7 @@
 <!-- Styles -->
 
 {% if page.pseudocode %}
+
   <!-- pseudocode -->
   <link
     defer
@@ -59,6 +63,7 @@
 {% endif %}
 
 {% if site.icon.size <= 4 %}
+
   <link
     rel="shortcut icon"
     href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{ site.icon }}</text></svg>"
@@ -71,7 +76,9 @@
 
 <!-- Dark Mode -->
 <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
+
 {% if site.enable_darkmode %}
+
   <link
     defer
     rel="stylesheet"
@@ -85,6 +92,7 @@
 {% endif %}
 
 {% if page.map %}
+
   <!-- GeoJSON support via Leaflet -->
   <link
     defer
@@ -96,6 +104,7 @@
 {% endif %}
 
 {% if page.code_diff %}
+
   <!-- diff2html -->
   <link
     defer
@@ -123,68 +132,69 @@
 {% endif %}
 
 {% if page.images %}
-  {% if page.images.compare %}
-    <!-- Image comparison slider -->
-    <link
+{% if page.images.compare %}
+<!-- Image comparison slider -->
+<link
       defer
       rel="stylesheet"
       href="{{ site.third_party_libraries.img-comparison-slider.url.css }}"
       integrity="{{ site.third_party_libraries.img-comparison-slider.integrity.css }}"
       crossorigin="anonymous"
     >
-  {% endif %}
-  {% if page.images.lightbox2 %}
-    <!-- Lightbox2 -->
-    <link
+{% endif %}
+{% if page.images.lightbox2 %}
+<!-- Lightbox2 -->
+<link
       defer
       rel="stylesheet"
       href="{{ site.third_party_libraries.lightbox2.url.css }}"
       integrity="{{ site.third_party_libraries.lightbox2.integrity.css }}"
       crossorigin="anonymous"
     >
-  {% endif %}
-  {% if page.images.photoswipe %}
-    <!-- Photoswipe -->
-    <link
+{% endif %}
+{% if page.images.photoswipe %}
+<!-- Photoswipe -->
+<link
       defer
       rel="stylesheet"
       href="{{ site.third_party_libraries.photoswipe.url.css }}"
       crossorigin="anonymous"
     >
-  {% endif %}
-  {% if page.images.slider %}
-    <!-- Image slider -->
-    <link
+{% endif %}
+{% if page.images.slider %}
+<!-- Image slider -->
+<link
       defer
       rel="stylesheet"
       href="{{ site.third_party_libraries.swiper.url.css }}"
       integrity="{{ site.third_party_libraries.swiper.integrity.css }}"
       crossorigin="anonymous"
     >
-  {% endif %}
-  {% if page.images.spotlight %}
-    <!-- Spotlight -->
-    <link
+{% endif %}
+{% if page.images.spotlight %}
+<!-- Spotlight -->
+<link
       defer
       rel="stylesheet"
       href="{{ site.third_party_libraries.spotlight.url.css }}"
       integrity="{{ site.third_party_libraries.spotlight.integrity.css }}"
       crossorigin="anonymous"
     >
-  {% endif %}
-  {% if page.images.venobox %}
-    <!-- Venobox -->
-    <link
+{% endif %}
+{% if page.images.venobox %}
+<!-- Venobox -->
+<link
       defer
       rel="stylesheet"
       href="{{ site.third_party_libraries.venobox.url.css }}"
       integrity="{{ site.third_party_libraries.venobox.integrity.css }}"
       crossorigin="anonymous"
     >
-  {% endif %}
+{% endif %}
 {% endif %}
 
 {% if page.tikzjax %}
+
   <link defer rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css">
 {% endif %}
 
