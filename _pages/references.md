@@ -19,7 +19,7 @@ nav: false
     <a href="r.burgess@lse.ac.uk" class="card-link">r.burgess@lse.ac.uk</a>
   </div>
   <div class="col-sm">
-    <p class="font-weight-bold">Mar Reguant</p> 
+    <p class="font-weight-bold">Mar Reguant</p>
     Department of Economics<br>
     Northwestern University<br>
     <a href="mar.reguant@northwestern.edu" class="card-link">mar.reguant@northwestern.edu</a>
